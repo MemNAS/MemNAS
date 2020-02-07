@@ -59,4 +59,11 @@ Illustration of our MemNAS
 | **MemNAS\-A \(ours\)**                          | auto   | **22\.8 MB** | \-      | **10\.3 MB** | **58 ms** | 74\.1              |
 | **MemNAS\-B \(ours\)**                          | auto   | 28\.1 MB             | \-      | 14\.8 MB             | 69 ms             | **75\.4** |
 
-## Run
+## Usage
+general.py : generating the candidate architectures by grow-trim, calculating the corresponding running-time memory requirement and the memory-efficient metric
+
+nets.py: encoding the network by Onehot vectors. decoding the network feature vector to network script files.
+
+controller.py: training the controller and evaluate the candidate architectures.
+
+train.py: training and testing the Top K candidate architectures.
