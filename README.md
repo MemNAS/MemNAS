@@ -16,11 +16,10 @@ Illustration of our MemNAS
 ## Intermediate searching results
 ![avatar](imgs/sr1.png)
 
-## Searched result on CIFAR-10
-<!-- ![avatar](imgs/sm1.png) -->
- <img src="imgs/sm1.png" height = "400" align=center />
 
 ## Results on Cifar-10
+ <img src="imgs/sm1.png" height = "400" align=center />
+
 | Method | Type | Total Memory           | Memory Savings| Params Memory           | Top-1 Acc. (\%)             |
 |-----------------------------------------------|--------|---------------------|-----------|---------------------|--------------------|
 | MobileNet-V2 | manual | 16\.3MB            | 60\.7\% | 13\.9MB            | 94\.1              |
