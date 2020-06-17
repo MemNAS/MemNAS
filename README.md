@@ -18,7 +18,6 @@ Illustration of our MemNAS
 
 
 ## Results on Cifar-10
- <img src="imgs/sm1.png" height = "400" align=center />
 
 | Method | Type | Total Memory           | Memory Savings| Params Memory           | Top-1 Acc. (\%)             |
 |-----------------------------------------------|--------|---------------------|-----------|---------------------|--------------------|
